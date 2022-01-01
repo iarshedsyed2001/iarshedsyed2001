@@ -1,7 +1,6 @@
 ### Hi there, I'm Iarshed! 👋
 
 - 🌱 I’m interested in web development.
-- 🚀 2021 Goals: Contribute more to Open Source projects.
 - 🤝 I’m looking to collaborate on front-end projects.
 - 📫 How to reach me: iarshedsyed2001@gmail.com
 
